@@ -184,6 +184,11 @@ h1 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-size: 16px;
+}
+
+.portfilio-item:hover .overlay {
+  transform: translateY(0%);
 }
 
 .address-page {
