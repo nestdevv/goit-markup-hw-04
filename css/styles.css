@@ -144,6 +144,7 @@ h1 {
   left: 0;
   width: 100%;
   height: 100%;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
@@ -184,7 +185,6 @@ h1 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-size: 16px;
 }
 
 .portfilio-item:hover .overlay {
