@@ -41,9 +41,13 @@ header .page-logo {
 }
 
 .menu-link:hover,
-.menu-link:focus {
+.menu-link:focus,
+.nav-link:hover,
+.nav-link:focus,
+.menu-link current {
   color: #404bbf;
-}
+} 
+
 .logo-style {
   color: #2e2f42;
 }
@@ -88,10 +92,7 @@ button {
   background-color: #404bbf;
 }
 
-.nav-link:hover,
-.nav-link:focus {
-  color: #404bbf;
-}
+
 
 h1 {
   color: white;
@@ -286,7 +287,6 @@ h1 {
 
 .menu-link.current {
   position: relative;
-  color: #404bbf;
 }
 
 .menu-link.current::after {
