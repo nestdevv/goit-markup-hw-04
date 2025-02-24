@@ -164,6 +164,7 @@ h1 {
   line-height: 1.17;
   text-transform: uppercase;
   margin-bottom: 16px;
+  margin-right: 120px;
 }
 
 .footer-desc {
@@ -450,6 +451,7 @@ img {
 
 .footer-container{
   display: flex;
+  align-items: baseline;
 }
 
 .social-media {
