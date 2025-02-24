@@ -164,6 +164,9 @@ h1 {
   line-height: 1.17;
   text-transform: uppercase;
   margin-bottom: 16px;
+}
+
+.footer-logo-container {
   margin-right: 120px;
 }
 
